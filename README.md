@@ -1,6 +1,6 @@
 # Student Manegement System
 
-![GitHub stars](https://img.shields.io/github/stars/Sudipta-Trisha/StudentManagementSystem)  ![GitHub forks](https://img.shields.io/github/forks/Sudipta-Trisha/StudentManagementSystem)
+![GitHub stars](https://img.shields.io/github/stars/Sudipta-Trisha/StudentManegementSystem)  ![GitHub forks](https://img.shields.io/github/forks/Sudipta-Trisha/StudentManegementSystem)
 
 Student Management System is a simple CRUD (Create, Read, Update, Delete) application designed to facilitate student information management for educational institutions. With the Student Management System, administrators, teachers, and other stakeholders can efficiently add, update, and delete student information, ensuring accurate records and streamlined administrative processes.
 
@@ -91,7 +91,19 @@ The Student Management System allows you to perform the following tasks:
 
 To use the system, open a web browser and navigate to the provided URL. From there, user can access the different functionalities and interact with the application.
 
-## 
+## Contributing
+
+We appreciate your interest in contributing to the Student Management System project. Please check the guidelines in [**Contributing.md**](Student-Management-System/CONTRIBUTING.md). Your contributions help make the project better and benefit the entire community.
+
+Feel free to reach out to **sudiptatrisha.19@gmail.com** , if you have any questions or need further assistance regarding the contribution process.
+
+## License
+
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-green.svg)](https://www.gnu.org/licenses/gpl-3.0)
+
+This software is licensed under the GNU General Public License (GPL) version 3.
+
+The full text of the GPL can be found in the [**LICENSE**](LICENSE) file.
 
 
 
