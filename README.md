@@ -21,9 +21,6 @@ This technology stack allows for rapid development, scalability, and easy mainte
    * [System Requirements](#system-requirements)
    * [Installation](#installation)
    * [Usage](#usage)
-   * [Database Schema](#database-schema)
-     * [Database Schema Diagram](#database-schema-diagram)
-
    * [Contributing](#contributing)
    * [License](#license)
  
@@ -72,12 +69,32 @@ This technology stack allows for rapid development, scalability, and easy mainte
   mvn clean package
 ```
 
-4. Import the mysql file
+4. Configure the Application
+    Open the [**application.properties**](Student-Management-System/src/main/resources/application.properties) file in a text editor and modify the database connection properties (e.g., URL, username, password) to match local MySQL configuration. 
 
-5. Run the application
+6. Run the application
 ```bash
-  
+  mvn spring-boot:run
 ```
+
+7. Open the web browser and navigate to **http://localhost:8080**
+
+## Usage
+
+The Student Management System allows you to perform the following tasks:
+
+- Add Student: Add new students to the system by providing their name, age, email address and enrollment details.
+
+- Update Student Information: Edit and update existing student information, such as contact details or enrollment information.
+
+- Delete Student: Remove a student's information from the system when it is no longer needed.
+
+To use the system, open a web browser and navigate to the provided URL. From there, user can access the different functionalities and interact with the application.
+
+## 
+
+
+
 
 
 
