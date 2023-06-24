@@ -77,7 +77,7 @@ This technology stack allows for rapid development, scalability, and easy mainte
   mvn spring-boot:run
 ```
 
-7. Open the web browser and navigate to **http://localhost:8080**
+7. Open the web browser and navigate to **http://localhost:8080/students**
 
 ## Usage
 
