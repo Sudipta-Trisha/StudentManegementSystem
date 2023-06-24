@@ -56,7 +56,28 @@ This technology stack allows for rapid development, scalability, and easy mainte
 
 ## Installation
 
-1. 
+1. Clone the project repository or Download zip file
+
+```bash
+  git clone https://github.com/Sudipta-Trisha/StudentManegementSystem.git
+```
+
+ 2. Navigate to the project directory
+``` bash
+  cd Student-Management-System
+```
+
+3. Install the dependecies
+```bash
+  mvn clean package
+```
+
+4. Import the mysql file
+
+5. Run the application
+```bash
+  
+```
 
 
 
